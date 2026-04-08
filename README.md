@@ -21,3 +21,7 @@ An interactive wall calendar built with React, featuring date range selection, n
 ```bash
 npm install
 npm run dev
+```
+
+## Live Demo
+https://lunar-liard.vercel.app/
