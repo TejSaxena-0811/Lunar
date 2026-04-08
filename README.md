@@ -1,4 +1,4 @@
-# Interactive Wall Calendar
+# Lunar: A React Calendar
 
 ## Overview
 An interactive wall calendar built with React, featuring date range selection, notes integration, and dynamic seasonal theming based on Indian weather patterns.
