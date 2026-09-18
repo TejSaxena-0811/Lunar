@@ -3,6 +3,10 @@
 ## Overview
 An interactive wall calendar built with React, featuring date range selection, notes integration, and dynamic seasonal theming based on Indian weather patterns.
 
+# A chart explaining the complete flow:
+<img width="727" height="1012" alt="image" src="https://github.com/user-attachments/assets/a9bb3a36-a1e6-4318-bf06-3c90dc00814a" />
+
+
 ## Features
 - Drag-to-select date range
 - Add and view notes for selected dates
